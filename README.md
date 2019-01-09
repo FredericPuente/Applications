@@ -1,2 +1,2 @@
 # Applications
-Anything related with Applications with Powershell
+Anything related with Applications and Powershell
