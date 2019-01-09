@@ -4,3 +4,7 @@
 * [ChangeLog](changelog.md)
 * [TEST](test.md)
 
+## PkgBuilder
+
+* [Installation](pkgbuilder/installation.md)
+
